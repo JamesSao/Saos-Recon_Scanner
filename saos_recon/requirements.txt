@@ -1,8 +1,0 @@
-customtkinter>=5.2
-requests>=2.31
-tldextract>=3.6
-python-whois>=0.9
-dnspython>=2.4
-beautifulsoup4>=4.12
-cryptography>=42
-mmh3>=4.0
